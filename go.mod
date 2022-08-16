@@ -1,4 +1,4 @@
-module github.com/rugggger/gofiber
+module github.com/rugggger/go-fiber
 
 go 1.19
 
